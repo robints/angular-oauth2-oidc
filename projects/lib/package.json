@@ -4,8 +4,8 @@
   "author": {
     "name": "Peer Bech Hansen"
   },
-  "version": "4.0.1-rc.1",
-  "repository": "bechhansen/angular-oauth2-oidc-codeflow",
+  "version": "4.0.1",
+  "repository": "bechhansen/angular-oauth2-oidc",
   "dependencies": {
     "jsrsasign": "^8.0.12"
   },
